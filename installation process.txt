@@ -6,3 +6,5 @@ Created by: Anisha Tasnim
 -Using pip
 1. open cmd and execute "pip install jupyterlab"
 once installed, launch JupyterLab with "jupyter-lab"
+
+
