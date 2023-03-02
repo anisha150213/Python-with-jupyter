@@ -1,0 +1,14 @@
+To run: ctrl + Enter
+To up: UP key
+Down: Down key
+Insert cell above: A
+Insert cell below: B
+Markdown cell: M
+Delete a cell: D+D
+Undo deletion: Z
+Select multiple cells: Shift + (UP/DOWN) key
+Merge multiple cells: Shift + M
+
+To save a check point: Ctrl + S
+
+
